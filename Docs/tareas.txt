@@ -1,0 +1,5 @@
+PVT2
+Realizar un ensayo relacionado a la historia de linux
+1) Debe contener su historia
+2) Debe hablar acerca de su fundador 
+3) Debe mencionar la funcion linux
