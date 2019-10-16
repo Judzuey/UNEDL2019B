@@ -1,0 +1,13 @@
+Historia de linux:
+
+En 1969, Ken Thompson, de AT&T Bell Laboratories, desarrolló el sistema operativo Unix, adaptándolo a las necesidades de un entorno de investigación, sin saber la importancia que llegaría a tener su trabajo. Un año después Dennis Ritchie (creador del lenguaje de programación C),  colaboró con Ken Thompson para pasar el código del sistema Unix a C. Lo que convierte a Unix en un sistema operativo transportable.
+Unix creció gradualmente hasta convertirse en un producto de software estándar, distribuido por muchos vendedores tales como Novell e IBM. Sus primeras versiones fueron distribuidas de forma gratuita a los departamentos científicos de informática de muchas universidades de renombre.
+
+Era el año 1991 y Linus Torvalds ,que en aquel entonces era un estudiante de informática de la Universidad de Helsinki, empezó a programar las primeras líneas de código de un sistema operativo(finalmente llamado LINUX ) como una afición y sin poderse imaginar la gran repercusión que traería.
+Hubo una primera versión no oficial de Linux 0.01, pero esta solo incluía el comienzo del núcleo, estaba escrita en lenguaje ensamblador y asumir que uno tenía acceso a un sistema Minix para su compilación.
+El 5 de octubre de 1991, Linus anuncio la primera versión oficial de Linux (versión 0.02). Con esta versión Linus pudo ejecutar Bash (GNU Bourne Again Shell) y gcc (El compilador GNU de C).Desde aquel entonces se han hecho muchísimas versiones con ayuda de programadores de todo el mundo.
+Linux es un sistema operativo compatible con Unix, sus dos características principales y que los diferencian del resto de los sistemas operativos que encontramos en el mercado son:
+1. Es software libre, esto significa que no tenemos que pagar por el uso del mismo.
+2. El sistema viene acompañado del código fuente (el sistema lo forman el núcleo del sistema (kernel) más un gran número de librerías que hacen posible su utilización).
+Las plataformas en las que en un principio se puede utilizar Linux son: Pentium, Pentium Pro, Pentium II/III/IV, Amiga y Atari, también existen versiones para su utilización en otras plataformas, como Alpha, ARM, MIPS, PowerPC y SPARC.
+En los últimos tiempos, ciertas casas de software comercial han empezado a distribuir sus productos para Linux y la presencia del mismo en empresas aumenta rápidamente por la excelente relación calidad-precio que se consigue con Linux.
