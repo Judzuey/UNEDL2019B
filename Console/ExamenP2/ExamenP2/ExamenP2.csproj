@@ -5,4 +5,8 @@
     <TargetFramework>netcoreapp3.0</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Compile Include="C:\Users\Super\UNEDL2019B\Console\C#\Examen_2do_Parcial.cs" Link="Examen_2do_Parcial.cs" />
+  </ItemGroup>
+
 </Project>

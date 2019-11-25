@@ -1,0 +1,10 @@
+C:\Users\Super\UNEDL2019B\UsingPrintHelper\UsingPrintHelper\bin\Debug\UsingPrintHelper.exe.config
+C:\Users\Super\UNEDL2019B\UsingPrintHelper\UsingPrintHelper\bin\Debug\UsingPrintHelper.exe
+C:\Users\Super\UNEDL2019B\UsingPrintHelper\UsingPrintHelper\bin\Debug\UsingPrintHelper.pdb
+C:\Users\Super\UNEDL2019B\UsingPrintHelper\UsingPrintHelper\obj\Debug\UsingPrintHelper.csprojAssemblyReference.cache
+C:\Users\Super\UNEDL2019B\UsingPrintHelper\UsingPrintHelper\obj\Debug\UsingPrintHelper.Form1.resources
+C:\Users\Super\UNEDL2019B\UsingPrintHelper\UsingPrintHelper\obj\Debug\UsingPrintHelper.Properties.Resources.resources
+C:\Users\Super\UNEDL2019B\UsingPrintHelper\UsingPrintHelper\obj\Debug\UsingPrintHelper.csproj.GenerateResource.cache
+C:\Users\Super\UNEDL2019B\UsingPrintHelper\UsingPrintHelper\obj\Debug\UsingPrintHelper.exe
+C:\Users\Super\UNEDL2019B\UsingPrintHelper\UsingPrintHelper\obj\Debug\UsingPrintHelper.pdb
+C:\Users\Super\UNEDL2019B\UsingPrintHelper\UsingPrintHelper\obj\Debug\UsingPrintHelper.AboutBox1.resources
