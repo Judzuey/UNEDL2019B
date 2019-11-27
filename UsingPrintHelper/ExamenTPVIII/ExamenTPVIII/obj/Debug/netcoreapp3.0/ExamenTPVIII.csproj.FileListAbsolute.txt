@@ -1,0 +1,11 @@
+C:\Users\Super\UNEDL2019B\UsingPrintHelper\ExamenTPVIII\ExamenTPVIII\bin\Debug\netcoreapp3.0\ExamenTPVIII.exe
+C:\Users\Super\UNEDL2019B\UsingPrintHelper\ExamenTPVIII\ExamenTPVIII\bin\Debug\netcoreapp3.0\ExamenTPVIII.deps.json
+C:\Users\Super\UNEDL2019B\UsingPrintHelper\ExamenTPVIII\ExamenTPVIII\bin\Debug\netcoreapp3.0\ExamenTPVIII.runtimeconfig.json
+C:\Users\Super\UNEDL2019B\UsingPrintHelper\ExamenTPVIII\ExamenTPVIII\bin\Debug\netcoreapp3.0\ExamenTPVIII.runtimeconfig.dev.json
+C:\Users\Super\UNEDL2019B\UsingPrintHelper\ExamenTPVIII\ExamenTPVIII\bin\Debug\netcoreapp3.0\ExamenTPVIII.dll
+C:\Users\Super\UNEDL2019B\UsingPrintHelper\ExamenTPVIII\ExamenTPVIII\bin\Debug\netcoreapp3.0\ExamenTPVIII.pdb
+C:\Users\Super\UNEDL2019B\UsingPrintHelper\ExamenTPVIII\ExamenTPVIII\obj\Debug\netcoreapp3.0\ExamenTPVIII.csprojAssemblyReference.cache
+C:\Users\Super\UNEDL2019B\UsingPrintHelper\ExamenTPVIII\ExamenTPVIII\obj\Debug\netcoreapp3.0\ExamenTPVIII.AssemblyInfoInputs.cache
+C:\Users\Super\UNEDL2019B\UsingPrintHelper\ExamenTPVIII\ExamenTPVIII\obj\Debug\netcoreapp3.0\ExamenTPVIII.AssemblyInfo.cs
+C:\Users\Super\UNEDL2019B\UsingPrintHelper\ExamenTPVIII\ExamenTPVIII\obj\Debug\netcoreapp3.0\ExamenTPVIII.dll
+C:\Users\Super\UNEDL2019B\UsingPrintHelper\ExamenTPVIII\ExamenTPVIII\obj\Debug\netcoreapp3.0\ExamenTPVIII.pdb
